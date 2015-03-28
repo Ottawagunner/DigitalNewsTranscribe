@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Visual3.svg"
+   inkscape:export-filename="C:\Users\matthew\Documents\Python Reddit Downloader\Visual\Visual2.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4723">
+      <stop
+         style="stop-color:#00373e;stop-opacity:1"
+         offset="0"
+         id="stop4725" />
+      <stop
+         style="stop-color:#009bad;stop-opacity:1"
+         offset="1"
+         id="stop4727" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5777-1">
+      <stop
+         style="stop-color:#ff9900;stop-opacity:1"
+         offset="0"
+         id="stop5785" />
+      <stop
+         style="stop-color:#996600;stop-opacity:1"
+         offset="1"
+         id="stop5787" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5777"
+       inkscape:collect="always">
+      <stop
+         id="stop5779"
+         offset="0"
+         style="stop-color:#ff9900;stop-opacity:1" />
+      <stop
+         id="stop5781"
+         offset="1"
+         style="stop-color:#996600;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5679-1"
+       inkscape:collect="always">
+      <stop
+         id="stop5689"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop5691"
+         offset="1"
+         style="stop-color:#009bad;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5673"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop5675" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5665"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#666666;stop-opacity:1;"
+         offset="0"
+         id="stop5667" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4723"
+       id="linearGradient5685"
+       x1="375"
+       y1="244.7453"
+       x2="375"
+       y2="1052.8673"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.9907214,0,0,0.99995781,4.2110961,-2.1832689)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5777-1"
+       id="linearGradient5765"
+       x1="551.51788"
+       y1="755.55499"
+       x2="769.01788"
+       y2="755.55499"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.62425919,0,0,0.62425919,233.36288,336.90349)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5777-1"
+       id="linearGradient5767"
+       x1="550.00262"
+       y1="659.59058"
+       x2="770.00262"
+       y2="659.59058"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56514589,0,0,0.56514589,309.585,278.50104)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5777-1"
+       id="linearGradient5769"
+       x1="549.49762"
+       y1="605.54742"
+       x2="764.49762"
+       y2="605.54742"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.56514589,0,0,0.56514589,313.60531,245.18631)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5777-1"
+       id="linearGradient5771"
+       x1="546.99762"
+       y1="708.58295"
+       x2="699.49762"
+       y2="708.58295"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.63941923,0,0,0.63941923,247.0248,299.52065)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5777-1"
+       id="linearGradient5773"
+       x1="550.00269"
+       y1="469.58286"
+       x2="692.50269"
+       y2="469.58286"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2244034,0,0,1.2244034,-640.60545,249.00804)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5777"
+       id="linearGradient5775"
+       x1="550.00269"
+       y1="348.79352"
+       x2="690.00269"
+       y2="348.79352"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5522032,0,0,1.5522032,-588.10868,243.0371)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5777-1"
+       id="linearGradient6124"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.64488013,0,0,0.64488013,-113.49997,359.0665)"
+       x1="549.49762"
+       y1="605.54742"
+       x2="764.49762"
+       y2="605.54742" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5777-1"
+       id="linearGradient6130"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.62358746,0,0,0.62358746,74.529022,338.132)"
+       x1="550.00262"
+       y1="659.59058"
+       x2="770.00262"
+       y2="659.59058" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5777-1"
+       id="linearGradient5765-4"
+       x1="549.01794"
+       y1="760.55511"
+       x2="569.01794"
+       y2="760.55511"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0924521,0,0,1.0924521,34.840912,-50.15342)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5777-1"
+       id="linearGradient4255"
+       x1="551.51788"
+       y1="755.55499"
+       x2="769.01788"
+       y2="755.55499"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.62425919,0,0,0.62425919,172.64863,142.3401)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5679-1"
+       id="linearGradient4289"
+       x1="405.60483"
+       y1="20.720919"
+       x2="405.51724"
+       y2="73.93084"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.06"
+     inkscape:cx="169.18628"
+     inkscape:cy="725.23067"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:snap-grids="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-to-guides="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="false"
+     inkscape:object-nodes="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-midpoints="false"
+     inkscape:snap-others="false"
+     objecttolerance="20"
+     guidetolerance="20"
+     inkscape:snap-perpendicular="false"
+     inkscape:snap-tangential="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     gridtolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3340" />
+    <sodipodi:guide
+       position="375,1394.0105"
+       orientation="1,0"
+       id="guide4172"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-408.10163,656.59916"
+       orientation="1,0"
+       id="guide3393" />
+    <sodipodi:guide
+       position="752.77232,712.85716"
+       orientation="0,1"
+       id="guide6212" />
+    <sodipodi:guide
+       position="375,589.15096"
+       orientation="0,1"
+       id="guide4239" />
+    <sodipodi:guide
+       position="291.51391,499.75998"
+       orientation="0,1"
+       id="guide4241" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <ellipse
+       style="opacity:0"
+       id="path3343"
+       cx="1395.502"
+       cy="425.3942"
+       rx="187.99077"
+       ry="140.99307" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="82.327431"
+       y="534.15393"
+       id="text3357"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3359"
+         x="82.327431"
+         y="534.15393" /></text>
+    <rect
+       style="opacity:1;fill:url(#linearGradient5685);fill-opacity:1;stroke:#000000;stroke-width:0.53714424;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0"
+       id="rect3418"
+       width="749.46283"
+       height="1057.4629"
+       x="0.26857212"
+       y="-5.3691688" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <circle
+       style="display:inline;fill:#b60000;fill-opacity:0.76635516;fill-rule:evenodd;stroke:#000000;stroke-width:2.69532371px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       id="path3338"
+       cx="374.26151"
+       cy="1188.5912"
+       r="369.64444" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#b60000;fill-opacity:0.76635516;stroke:#000000;stroke-width:0.2953867;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0"
+       id="path4160"
+       cx="120.0584"
+       cy="702.55786"
+       rx="93.834267"
+       ry="93.834274" />
+    <circle
+       style="display:inline;opacity:1;fill:#b60000;fill-opacity:0.76635516;stroke:#000000;stroke-width:0.05250668;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0"
+       id="path4162"
+       cx="662.05945"
+       cy="702.55792"
+       r="10.973746" />
+    <circle
+       style="display:inline;opacity:1;fill:#b60000;fill-opacity:0.76635516;stroke:#000000;stroke-width:1.45466876;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0"
+       id="path4164"
+       cx="629.55945"
+       cy="702.55786"
+       r="10.272666" />
+    <circle
+       style="display:inline;opacity:1;fill:#b60000;fill-opacity:0.76635515;stroke:#000000;stroke-width:0.34378284;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0"
+       id="path4168"
+       cx="482.09836"
+       cy="702.55786"
+       r="21.801891" />
+    <ellipse
+       style="display:inline;opacity:1;fill:#b60000;fill-opacity:0.76635515;stroke:#000000;stroke-width:0.41733959;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0"
+       id="path4170"
+       cx="311.51392"
+       cy="702.55786"
+       rx="27.264868"
+       ry="27.264864"
+       inkscape:transform-center-x="-0.12626907" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:48.97613144px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5773);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="29.758663"
+       y="845.39392"
+       id="text3361"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="29.758663"
+         y="845.39392"
+         id="tspan3365"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:url(#linearGradient5773);fill-opacity:1">Stalin</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.57672882px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5771);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="596.78564"
+       y="763.79205"
+       id="text3369"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3371"
+         x="596.78564"
+         y="763.79205"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:url(#linearGradient5771);fill-opacity:1">Truman</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:25.79520416px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient6124);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="239.24794"
+       y="760.85742"
+       id="text3373"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3375"
+         x="239.24794"
+         y="760.85742"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:url(#linearGradient6124);fill-opacity:1">Chruchill</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.9434967px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient6130);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="415.94476"
+       y="760.35718"
+       id="text3377"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3379"
+         x="415.94476"
+         y="760.35718"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:url(#linearGradient6130);fill-opacity:1">Roosevelt</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.97036743px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:url(#linearGradient5765);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="576.09241"
+       y="819.49017"
+       id="text3381"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3383"
+         x="576.09241"
+         y="819.49017"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:url(#linearGradient5765);fill-opacity:1">Mussolini</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:99.67670441px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.18431373;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="32.722099"
+       y="745.11029"
+       id="text5837"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="32.722099"
+         y="745.11029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:#000000;fill-opacity:0.18431373"
+         id="tspan5841">17%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:196.13531494px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:0.18452382;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="298.75458"
+       y="1170.3705"
+       id="text5837-7"
+       sodipodi:linespacing="125%"
+       transform="scale(1.2435044,0.8041789)"><tspan
+         sodipodi:role="line"
+         x="312.81708"
+         y="1170.3705"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;font-family:Manteka;-inkscape-font-specification:Manteka;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.18452382"
+         id="tspan5841-0">Hitler </tspan><tspan
+         sodipodi:role="line"
+         x="298.75458"
+         y="1282.8705"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;font-family:Manteka;-inkscape-font-specification:Manteka;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.18452382"
+         id="tspan4352">70%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="294.84729"
+       y="714.22461"
+       id="text5837-7-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="294.84729"
+         y="714.22461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:#800000;fill-opacity:1"
+         id="tspan5841-0-0">5%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.66666603px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="465.4317"
+       y="714.22455"
+       id="text5837-7-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="465.4317"
+         y="714.22455"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:#800000;fill-opacity:1"
+         id="tspan5841-0-3">4%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="621.22614"
+       y="708.39124"
+       id="text5837-7-46"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="621.22614"
+         y="708.39124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:#800000;fill-opacity:1"
+         id="tspan5841-0-8">2%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.33333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="653.72614"
+       y="708.39124"
+       id="text5837-7-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="653.72614"
+         y="708.39124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:#800000;fill-opacity:1"
+         id="tspan5841-0-32">2%</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:60.07665253px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9d1414;fill-opacity:0.93877552;stroke:none;stroke-width:2.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47196266"
+       x="20.122616"
+       y="73.609413"
+       id="text4218"
+       sodipodi:linespacing="125%"
+       transform="scale(0.6428484,1.5555767)"><tspan
+         sodipodi:role="line"
+         id="tspan4220"
+         x="20.122616"
+         y="73.609413"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;fill:#9d1414;fill-opacity:0.93877552;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.47196266">reddit and world war II Leaders</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:37.32709503px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="186.41432"
+       y="88.561775"
+       id="text4222"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4224"
+         x="186.41432"
+         y="88.561775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Mistral;-inkscape-font-specification:Mistral;fill:#cdcdcd;fill-opacity:1" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4226"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion4228"><rect
+           id="rect4230"
+           width="55.714287"
+           height="52.14283"
+           x="260"
+           y="675.21936" /></flowRegion><flowPara
+         id="flowPara4232" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="551.42859"
+       y="419.50507"
+       id="text4234"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4236"
+         x="551.42859"
+         y="419.50507"
+         style="fill:#585858;fill-opacity:1" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:45.12425232px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0ecf2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="385.95346"
+       y="159.11414"
+       id="text4240"
+       sodipodi:linespacing="125%"
+       transform="scale(0.9653188,1.0359272)"><tspan
+         sodipodi:role="line"
+         x="388.70761"
+         y="159.11414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:28.20265198px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';text-align:center;text-anchor:middle;fill:#c0ecf2;fill-opacity:1"
+         id="tspan4230">How often are WWII leaderstalked about on Reddit? </tspan><tspan
+         sodipodi:role="line"
+         x="388.70761"
+         y="194.36745"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:28.20265198px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';text-align:center;text-anchor:middle;fill:#c0ecf2;fill-opacity:1"
+         id="tspan4232">How are they talked about? </tspan><tspan
+         sodipodi:role="line"
+         x="385.95346"
+         y="229.62076"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:28.20265198px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';text-align:center;text-anchor:middle;fill:#c0ecf2;fill-opacity:1"
+         id="tspan4234">Do different subredditts talk differently about each world leader?</tspan><tspan
+         sodipodi:role="line"
+         x="385.95346"
+         y="264.87408"
+         id="tspan4244" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="320"
+       y="662.36218"
+       id="text4224"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4226"
+         x="320"
+         y="662.36218" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:43.69808578px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:url(#linearGradient5765-4);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="645.54126"
+       y="794.37225"
+       id="text3381-5"
+       sodipodi:linespacing="125%"
+       inkscape:transform-center-x="-10.101525"
+       inkscape:transform-center-y="0.50507627"><tspan
+         sodipodi:role="line"
+         id="tspan3383-1"
+         x="645.54126"
+         y="794.37225"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manteka;-inkscape-font-specification:Manteka;text-align:center;text-anchor:middle;fill:url(#linearGradient5765-4);fill-opacity:1">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="80"
+       y="405.21936"
+       id="text4291"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4293"
+         x="80"
+         y="405.21936"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:46.87059402px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0ecf2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="413.16772"
+       y="536.74292"
+       id="text4240-2"
+       sodipodi:linespacing="125%"
+       transform="scale(0.905756,1.1040501)"><tspan
+         sodipodi:role="line"
+         x="413.16772"
+         y="536.74292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:29.29411697px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';text-align:center;text-anchor:middle;fill:#c0ecf2;fill-opacity:1"
+         id="tspan4234-5">How often each leader is mentioned in Reddit comments</tspan><tspan
+         sodipodi:role="line"
+         x="414.38843"
+         y="555.91718"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:12.5px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';text-align:center;text-anchor:middle;fill:#c0ecf2;fill-opacity:1"
+         id="tspan4729">out of 887 comments on March 17 2015 </tspan><tspan
+         sodipodi:role="line"
+         x="413.16772"
+         y="571.54218"
+         id="tspan4244-5" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:46.87059402px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0ecf2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="413.16772"
+       y="291.85214"
+       id="text4240-2-7"
+       sodipodi:linespacing="125%"
+       transform="scale(0.905756,1.1040501)"><tspan
+         sodipodi:role="line"
+         x="416.02847"
+         y="291.85214"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:29.29411697px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';text-align:center;text-anchor:middle;fill:#c0ecf2;fill-opacity:1"
+         id="tspan4234-5-6">How each leader is represented in Reddit comments </tspan><tspan
+         sodipodi:role="line"
+         x="413.16772"
+         y="328.46979"
+         id="tspan4244-5-9" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="graph">
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.60119042;stroke:#ffffff;stroke-width:0.63681573;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4506"
+       width="412.12793"
+       x="53.009323"
+       y="418.06876"
+       height="0.12736315" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:50.94525909px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#7f2e30;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="502.3042"
+       y="410.71021"
+       id="text4547"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4549"
+         x="502.3042"
+         y="410.71021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.28855133px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';fill:#7f2e30;fill-opacity:1"><tspan
+           style="fill:#457f2e;fill-opacity:1"
+           id="tspan4701">Positive:</tspan><tspan
+           style="fill:#4fbebc;fill-opacity:1"
+           id="tspan4705"> Good Sentiment</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="502.3042"
+         y="438.57089"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:22.28855133px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';fill:#7f2e30;fill-opacity:1"
+         id="tspan4551">Negitive: <tspan
+   style="fill:#4fbebc;fill-opacity:1"
+   id="tspan4707">Poor Sentiment</tspan></tspan></text>
+    <g
+       id="g4669"
+       transform="matrix(1.2736315,0,0,1.2736315,-213.4943,-156.7492)">
+      <rect
+         y="451.67203"
+         x="330.75717"
+         height="43.599998"
+         width="28.301888"
+         id="rect4354"
+         style="opacity:1;fill:#d33030;fill-opacity:0.60119042;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="451.67203"
+         x="430.75717"
+         height="42.799999"
+         width="28.301888"
+         id="rect4354-1"
+         style="opacity:1;fill:#d33030;fill-opacity:0.60119042;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="449.07202"
+         x="229.23833"
+         height="2"
+         width="28.301888"
+         id="rect4354-1-5"
+         style="opacity:1;fill:#2bcf73;fill-opacity:0.60119042;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="451.67203"
+         x="380.75717"
+         height="25"
+         width="28.301888"
+         id="rect4354-1-5-6"
+         style="opacity:1;fill:#d33030;fill-opacity:0.60119042;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="426.27203"
+         x="281.23831"
+         height="24.799999"
+         width="28.301888"
+         id="rect4354-1-5-4"
+         style="opacity:1;fill:#2bcf73;fill-opacity:0.60119042;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="451.67203"
+         x="482.75717"
+         height="6.1999998"
+         width="28.301888"
+         id="rect4354-1-5-7"
+         style="opacity:1;fill:#d33030;fill-opacity:0.60119042;stroke:none;stroke-width:2.20000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="matrix(0.51054292,0.85985227,-0.85985227,0.51054292,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4386"
+         y="-116.13283"
+         x="649.1496"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Manteka;-inkscape-font-specification:Manteka;letter-spacing:0px;word-spacing:0px;fill:#4b7a80;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-116.13283"
+           x="649.1496"
+           id="tspan4388"
+           sodipodi:role="line">-2.14</tspan></text>
+      <text
+         transform="matrix(0.42261826,0.90630779,-0.90630779,0.42261826,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4390"
+         y="-87.558395"
+         x="477.26205"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Manteka;-inkscape-font-specification:Manteka;letter-spacing:0px;word-spacing:0px;fill:#4b7a80;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-87.558395"
+           x="477.26205"
+           id="tspan4392"
+           sodipodi:role="line">1.24</tspan></text>
+      <text
+         transform="matrix(0.51054292,0.85985227,-0.85985227,0.51054292,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4386-5"
+         y="-179.77109"
+         x="644.36975"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Manteka;-inkscape-font-specification:Manteka;letter-spacing:0px;word-spacing:0px;fill:#4b7a80;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-179.77109"
+           x="644.36975"
+           id="tspan4388-7"
+           sodipodi:role="line">-0.31</tspan></text>
+      <text
+         transform="matrix(0.42261826,0.90630779,-0.90630779,0.42261826,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4386-2"
+         y="-30.375784"
+         x="477.94189"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Manteka;-inkscape-font-specification:Manteka;letter-spacing:0px;word-spacing:0px;fill:#4b7a80;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-30.375784"
+           x="477.94189"
+           id="tspan4388-1"
+           sodipodi:role="line">0.10</tspan></text>
+      <text
+         transform="matrix(0.51054292,0.85985227,-0.85985227,0.51054292,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4386-0"
+         y="-82.227882"
+         x="608.31708"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Manteka;-inkscape-font-specification:Manteka;letter-spacing:0px;word-spacing:0px;fill:#4b7a80;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-82.227882"
+           x="608.31708"
+           id="tspan4388-14"
+           sodipodi:role="line">-1.25</tspan></text>
+      <text
+         transform="matrix(0.51054292,0.85985227,-0.85985227,0.51054292,0,0)"
+         sodipodi:linespacing="125%"
+         id="text4436"
+         y="-29.739145"
+         x="598.7832"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Manteka;-inkscape-font-specification:Manteka;letter-spacing:0px;word-spacing:0px;fill:#4b7a80;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           y="-29.739145"
+           x="598.7832"
+           id="tspan4438"
+           sodipodi:role="line">-2.18</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4547-1"
+         y="451.62076"
+         x="320.44827"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0ecf2;fill-opacity:0.72429905;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4551-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.5px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';fill:#c0ecf2;fill-opacity:0.72429905"
+           y="451.62076"
+           x="320.44827"
+           sodipodi:role="line">Churchill</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4547-1-4"
+         y="451.67203"
+         x="429.56143"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0ecf2;fill-opacity:0.72429905;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4551-5-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.5px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';fill:#c0ecf2;fill-opacity:0.72429905"
+           y="451.67203"
+           x="429.56143"
+           sodipodi:role="line">Stalin</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4547-1-4-1"
+         y="451.62076"
+         x="379.25809"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0ecf2;fill-opacity:0.72429905;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4551-5-4-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.5px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';fill:#c0ecf2;fill-opacity:0.72429905"
+           y="451.62076"
+           x="379.25809"
+           sodipodi:role="line">Hitler</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4547-1-4-8"
+         y="451.65494"
+         x="469.78653"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0ecf2;fill-opacity:0.72429905;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4551-5-4-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.5px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';fill:#c0ecf2;fill-opacity:0.72429905"
+           y="451.65494"
+           x="469.78653"
+           sodipodi:role="line">Roosevelt</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4547-1-0"
+         y="464.44485"
+         x="274.78317"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0ecf2;fill-opacity:0.72429905;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4551-5-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.5px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';fill:#c0ecf2;fill-opacity:0.72429905"
+           y="464.44485"
+           x="274.78317"
+           sodipodi:role="line">Truman</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4547-1-00"
+         y="464.44482"
+         x="218.0493"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#c0ecf2;fill-opacity:0.72429905;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           id="tspan4551-5-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.5px;font-family:'Agency FB';-inkscape-font-specification:'Agency FB Condensed';fill:#c0ecf2;fill-opacity:0.72429905"
+           y="464.44482"
+           x="218.0493"
+           sodipodi:role="line">Mussolini	</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="113.07038"
+       y="483.34137"
+       id="text4646"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4648"
+         x="113.07038"
+         y="483.34137"></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="symbol" />
+</svg>
