@@ -1,0 +1,11 @@
+Use of Leaders
+
+Stalin	166		17%	-2.14
+Tojo	9		nil	nil
+Truman	25		2%	1.24
+Hitler	622		67%	-1.25
+Mussolini	19	2%	0.10
+Roosevelt	44	4%	-0.31
+Churchill	49	5%	-2.18
+
+925
