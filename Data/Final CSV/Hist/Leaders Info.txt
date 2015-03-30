@@ -1,0 +1,7 @@
+hitler		37	33%	
+stalin		28	25%
+truman		9	09%
+churchill	20	18%
+roosevelt	9	09%
+mussolini	6	06%
+		/109	100 %
