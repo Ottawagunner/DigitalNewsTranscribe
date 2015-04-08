@@ -96,14 +96,26 @@ From this I get sentiment numbers that tell the sentiment of all the comments. I
 
 ###Visualization Aims
 
-Well for the visualization I wanted to do some sort of poster that would show the data in a well presented format. I used InkScape and gereated all the 
+Well for the visualization I wanted to do some sort of poster that would show the data in a well presented format. I used InkScape and generated all the graphs and charts.
+
+The graphs were made by setting the height or width based on the data that I got, then scaled them all up to make them the same ratio. 
+
+The final result was a divided poster, with the Reddit r/all data on one side and Reddit r/history on the other. It followed the rule of thirds almost, where data was distributed in four quadrants. 
 
 ###Faults
 
-Didn't catch Spanish comments
+Some of the issues that came up during the building of the data and the visualization.There were a fair amount of Spanish comments that i did not realize were in the data. I don't know how the sentiment works with that so it's a potential outlier. 
 
-Tojo was removed as it created problematic and minimal responses
+I had to remove the leader Tojo, simply not enough people were talking about him. As well the word tojo can be a subset of larger words, so the word "photojournalist" has the word tojo in it. Meaning i caught a lot of comments that had nothing to do with Tojo Hideki. 
 
+There are issues with sentiment analysis that are evident. It does not take into consideration context and quotes. It also cannot figure out sarcasm, so it can mark harshly on sarcastic text. Short grammatically incorrect texts are often not parsed well and will yield errors. There is also a big issue of Anaphora Resolution. The algorithm simply can't figure out the pronoun and noun refers to. An example: "We watched the movie and went to dinner; it was awful." What does "It" refer to? Sentiment analysis is sill new and there are limitations on what to expect from it. Reference [here](http://www.cs.uic.edu/~liub/FBS/IEEE-Intell-Sentiment-Analysis.pdf)
 
+As well unfortunately I lost a fair bit of data for some reason, luckily the largest dataset from March 17 was untouched, but a variety of others were completely blank. I'm not sure what caused this. Could be the VM or the code.    
+
+####Visualization Iterations
+
+I went through numerous iterations of my poster. Each one can be seen on [github.](https://github.com/Ottawagunner/RedditData/tree/master/Visual) I had many aspects to look at. Between visual1 and visual3 I changed the background to a lighter and easier to look at color. The black background made it difficult to see text and even choose colors since everything went with it. Between visual3 and vis4 I changed the background further lightening it. As well I changed the layout to a more horizontal focused one, which allowed me to show both posters in one. There was issues with wording, seeing Dr.Graham's additions to my title I changed it to his since it was much more on the point than my original one. As well I had gotten the advice to change the words "Good and Poor" to "Good" and "Bad".    
 
 ###Results
+
+The results of this data mining and analysis are really amazing. Although it does have holes, it really shows the separation of Reddit. The use of historical figures in a public network is something untapped. From looking at this data we can see that Reddit uses Hitler the most and dislikes Churchill more than Hitler and Stalin. Reddit is one of the most trafficked website currently and it would be a wasted resource if we didn't look into it. From what I've gathered it shows that potentially Hitler is not being taken as seriously as it had been in earlier years. There is more debate on allied leaders, such as Churchill. All of this data was taken from a single day, March 17, and was the largest dataset taken. Obviously the more data would paint a clearer picture.
